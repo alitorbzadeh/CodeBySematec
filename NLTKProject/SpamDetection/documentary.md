@@ -1,1 +1,1 @@
-**SpamDetection**
+*SpamDetection*
